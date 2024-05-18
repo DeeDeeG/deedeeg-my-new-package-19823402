@@ -1,0 +1,18 @@
+{
+  "name": "deedeeg-my-new-package-19823402",
+  "main": "./lib/deedeeg-my-new-package-19823402",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "deedeeg-my-new-package-19823402:toggle"
+  },
+  "repository": "https://github.com/DeeDeeG/deedeeg-my-new-package-19823402",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
